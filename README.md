@@ -1,2 +1,2 @@
 # others
-Contains other personal interested projects
+Contains other personal interested and job seeking showcase project

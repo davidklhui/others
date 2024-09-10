@@ -11,7 +11,8 @@ All of the followings are involved Probability and Simulations
       - Demonstrate a 5x3 slot game design using RTP and Hit Frequency
       - highlights: used Dirichlet Distribution; theoretical calculation of probability distributions of different paylines
 4. [Slot Design using Markov Chains](https://colab.research.google.com/github/davidklhui/stochastic-modelling/blob/main/Slot_design_using_Markov_Chains.ipynb)
+      - Discuss how to model if subsuquent game outcomes can be dependent
       - highlights: Markov Chains and Limiting Distribution
-5. [Discussion of Further 5x3 Slot Design](https://colab.research.google.com/github/davidklhui/stochastic-modelling/blob/main/Discussion_of_further_5x3_Slot_design.ipynb)
+6. [Discussion of Further 5x3 Slot Design](https://colab.research.google.com/github/davidklhui/stochastic-modelling/blob/main/Discussion_of_further_5x3_Slot_design.ipynb)
       - Demonstrate a further 5x3 slot game design using RTP and Hit Frequency, including Wild symbol
       - highlights: used Dirichlet Distribution
